@@ -1,4 +1,4 @@
-    area, code, readonly
+    area sub, code, readonly
     entry
     mov r0, #0x03
     mov r1, #0x02
